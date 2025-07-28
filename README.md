@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="mailto:mohameddcharafi@gmail.com"><img src="https://img.shields.io/badge/email-mohameddcharafi@gmail.com-red?style=flat-square&logo=gmail"></a>
-  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/mohamedcharafi/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"></a>
   <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-Website-green?style=flat-square&logo=google-chrome"></a>
 </p>
 
