@@ -13,7 +13,7 @@
 
 ```ts
 const MohamedCharafi = {
-  title: 'Frontend Team Lead',
+  title: 'Senior Frontend developer',
   location: 'Kenitra, Morocco',
   experience: '6+ years',
   stack: ['Typescript', 'React', 'Next.js', 'Nuxt.js', 'Node.js', 'Tailwind CSS', 'Docker' ],
