@@ -14,7 +14,7 @@ Building scalable SaaS platforms, modern web applications, and AI-powered produc
   <a href="mailto:mohameddcharafi@gmail.com">
     <img src="https://img.shields.io/badge/Email-mohameddcharafi@gmail.com-ef4444?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+   <a href="https://www.linkedin.com/in/mohamedcharafi/">
     <img src="https://img.shields.io/badge/LinkedIn-Mohamed%20Charafi-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
 </p>
